@@ -1,0 +1,4 @@
+--- Monster Data ---
+Slime,1,1,1
+Wolf,5,5,5
+Demon,10,10,10
