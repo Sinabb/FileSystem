@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<monsters>
+        <monster name="슬라임">
+                <status level="1" hp="1" mp="1"/>
+                <items>
+                        <item name="끈적한 젤리" gold="1"/>
+                </items>
+        </monster>
+        <monster name="늑대인간">
+                <status level="5" hp="5" mp="5"/>
+                <items>
+                        <item name="발톱" gold="2"/>
+                        <item name="늑대가죽" gold="5"/>
+                </items>
+        </monster>
+        <monster name="악마">
+                <status level="10" hp="10" mp="10"/>
+                <items>
+                        <item name="날개" gold="10"/>
+                        <item name="손톱" gold="5"/>
+                </items>
+        </monster>
+</monsters>
