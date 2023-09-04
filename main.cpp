@@ -2,14 +2,14 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
-#include "File_stream.h"
-#include "Xml_parser.h"
+#include "Tinyxml_Test.h"
 
 
 int main()
 {
-	FileTest();
-	XMLTest();
+	//FileTest();
+	//XMLTest();
+	TinyXml();
 }
 //
 /*

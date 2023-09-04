@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Tinyxml2">
+      <UniqueIdentifier>{4743dbd2-11e3-4d5e-bde4-9a651a8d0998}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>Tinyxml2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -24,6 +30,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Xml_parser.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>Tinyxml2</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXml_Test.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

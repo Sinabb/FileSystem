@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="EUC-KR"?>
+<?xml version = "1.0" encoding = "EUC-KR"?>
 <monsters>
-        <monster name="ìŠ¬ë¼ìž„">
-                <status level="1" hp="1" mp="1"/>
-                <items>
-                        <item name="ëˆì í•œ ì ¤ë¦¬" gold="1"/>
-                </items>
-        </monster>
-        <monster name="ëŠ‘ëŒ€ì¸ê°„">
-                <status level="5" hp="5" mp="5"/>
-                <items>
-                        <item name="ë°œí†±" gold="2"/>
-                        <item name="ëŠ‘ëŒ€ê°€ì£½" gold="5"/>
-                </items>
-        </monster>
-        <monster name="ì•…ë§ˆ">
-                <status level="10" hp="10" mp="10"/>
-                <items>
-                        <item name="ë‚ ê°œ" gold="10"/>
-                        <item name="ì†í†±" gold="5"/>
-                </items>
-        </monster>
+    <monster name="½½¶óÀÓ">
+        <status level="1" HP="1" MP="1"/>
+        <items name="²öÀûÇÑ Á©¸®" gold="1">
+            <item/>
+        </items>
+    </monster>
+    <monster name="´Á´ë ÀÎ°£">
+        <status level="5" HP="5" MP="5"/>
+        <items name="´Á´ë °¡Á×" gold="5">
+            <item/>
+            <item/>
+        </items>
+    </monster>
+    <monster name="¾Ç¸¶">
+        <status level="10" HP="10" MP="10"/>
+        <items name="¼ÕÅé" gold="5">
+            <item/>
+            <item/>
+        </items>
+    </monster>
 </monsters>
